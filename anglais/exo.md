@@ -13,43 +13,39 @@ Exercise 2:
 
 Exercise 3: MINI QUIZ
 
-The plane ………. its final approach to the airport when it developed a problem with its landing.
-was made
-was making
-makes
-is making
-They are still ………… for an explanation.
-wait
-waiting
-waited
-waits
-Although people say that ‘seeing is believing’, I still cannot believe that what I ………… last night was really a UFO.
-had seen
-have seen
-saw
-see
-They ……….. the office last month.
-vacated
-have vacated
-have been vacating
-have vacating
-Since 1999, David Michaels ……….. a financial consulting firm.
-owns
-owned
-had owned
-has owned
-She loves Australia. She ……………. there for 10 years when she was young.
-lived
-has lived
-had lived
-was lived
-They …………. in China before they settled in Australia.
-have lived
-had lived
-lived
-have been living
-The figures on this table …………. from a survey of small business owners.
-comes
-come
-is coming
-has come
+1. The plane was making its final approach to the airport when it developed a problem with its landing.
+2. They are still waiting for an explanation.
+3. Although people say that ‘seeing is believing’, I still cannot believe that what I saw last night was really a UFO.
+4. They vacated the office last month.
+5. Since 1999, David Michaels has owned a financial consulting firm.
+6. She loves Australia. She lived there for 10 years when she was young.
+7. They had lived in China before they settled in Australia.
+8. The figures on this table come from a survey of small business owners.
+
+
+TOEIC :
+1.B
+2.A
+3.C 
+7.A 
+8.B
+9.C
+10.C
+11.A
+
+32.B
+33.C
+34.B
+
+35.B
+36.C
+37.B
+
+38.D
+39.B
+40.D
+
+65.C
+66.C
+67.C
+
